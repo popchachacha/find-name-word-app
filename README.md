@@ -1,6 +1,6 @@
 📄 Multi-Format Document Processing
 
-Word documents (.docx): Full support for tables, formatting, images
+Full support for tables, formatting, images
 PDF files: Text and table extraction from PDF documents
 Text files (.txt): Analysis of plain text documents
 LibreOffice documents (.odt, .ods): Support for LibreOffice formats
